@@ -1,5 +1,7 @@
-# The Squid Game Effect: A Data Analysis on Global Interest in Learning Korean
-A data analysis project on the effects of Squid Game 1 &amp; 2 on the global interest in learning korean language.
+# 🦑 The Squid Game Effect: A Data Analysis on Global Interest in Learning Korean
+This repository contains a data analysis project looking at the effects of entertainment exports from Korean on the global interest in learning the Korean language. The project aims to look specifically on the impact of Squid Game 1 &amp; 2 on the global interest in learning korean language.
+
+The project uses Google Trends data, Duolingo language report (2024) and MyDramaList from Kaggle.
 
 # Project Description
 For decades, language learning was predictable: English, Spanish and French were the languages of choice. However, in 2018, Duolingo's data detectives spotted an anomaly. They noticed that interests in Korean culture and language are surging in countries with no historical ties to Korea.
@@ -26,8 +28,7 @@ This project aims to start on a data trail to see if this is just a corporate in
   * Are there many countries who really convert entertainment to education or are they casual consumers of entertainment without educational follow-through.
 
 # Data Sources
-* [Duolingo 2024 Report](https://blog.duolingo.com/2024-duolingo-language-report/
-)
+* [Duolingo 2024 Report](https://blog.duolingo.com/2024-duolingo-language-report/)
   * Data Source: [Google Docs](https://docs.google.com/spreadsheets/d/1CndYC5ZovYfmPuMN9T9Jxfa4CQXOzZrfQ2kAUaWG1ZU/edit?ref=blog.duolingo.com&gid=532174835#gid=532174835)
 * Google Trends Timelines and Geographical (data Collection date 01 Nov 2025)
   * Past 5 years
@@ -44,16 +45,19 @@ This project aims to start on a data trail to see if this is just a corporate in
 * Netflix Movies & TC shows Dataset
   *source: [HQ DATA PROFILER on Kaggle](https://www.kaggle.com/datasets/hqdataprofiler/cleaned-netflix-movies-and-tv-shows)
 
+# Jupyter Notebooks
+* For ETL and EDA [squidgameeffect.ipynb](notebooks/squidgameeffect.ipynb)
+* For Analysis on the 4 Part questions listed above [squidgameeffect_analysis.ipynb](notebooks/squidgameeffect_analysis.ipynb)
 
-
-
+  
 # Tech Stack & Libraries
-* Language: Python
+* ![Python](https://img.shields.io/badge/python-3.13%2B-blue)
 * Libraries:
-  * pandas (for data manipulation and analysis)
-  * numpy (for numerical operations)
-  * matplotlib & seaborn (for static visualizations and styling)
-  * plotly.express (for interactive visualizations)
+  * [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+  * [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+  * ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff) ![seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
+  * plotly.express 
+* Git workflow 
 
 
 # Results & Findings  
@@ -82,17 +86,33 @@ However, purely looking at K-Drama may not be enough to fully justify the impetu
 
 It is also important to note that the analysis of Google Trend on the interest in search topics and search terms is at best only a proxy to gauge the temperature of search interests around the world.  Many factors, such as national or international event, can affect the Relative Search Frequency especially when in comes to comparing country of varying population size and internet usage.
 
+
 # Futher Works
 * With better data from Duolingo, perhaps we can dig more into why Doulingo wants to add popular phrases from popular Korean shows into its language learning app.
 * Analysis of Netflix global viewing figures to see if indeed there is a sustained increase in interest in Korean entaintment.
 * Analysis in the trends of interest in "K-Drama" and "Learn Korean" together with significant news or releases of "K-Pop" and/or "Korean Skin Care" products.
 
 
-# How to Run This Project
+# How to Reproduct This Project
 * (Recommended) Create a virtual environment.
+* Clone the repository
+> git clone https://github.com/HaveTimeDrinkTea/squidgameeffect.git
 * Install dependencies: 
 > pip install -r requirements.txt
 * Open the Jupyter notebooks: 
 > jupyter notebook notebooks/squidgameeffect.ipynb
 
 > jupyter notebook notebooks/squidgameeffect_analysis.ipynb
+
+# License
+MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Credits and Acknowledgement
+* My tutor Mr. John Anih
+* eLearning materials of the "Data Analytics with AI" Bootcamp by the Code Institute
+* Learnings from Stack Overflow, Mimo.org, DeepSeek and Python official Websites
+
+## Contribution
+* If you have any query or contribution about this repo, please contact via
+  * GitHub [https://github.com/HaveTimeDrinkTea](https://github.com/HaveTimeDrinkTea)
+
