@@ -59,16 +59,16 @@ This project aims to start on a data trail to see if this is just a corporate in
 # Results & Findings  
 * Part 1 The Mystery - Unexpected Global Interest?
   * Yes there appears to be a global interest in Korean entertainment.
-![Global Search Interest for "Learn Korean](doc/Part1_02.png)
+![Global Search Interest for "Learn Korean](docs/Part1_02.png)
 * Part 2 The Correlation Evidence
   * There appears to be sustained growth in K-Drama and Korean Languages Searches
-![Sustained Growth in K-Drama and Korean Languages Searches](doc/Part2_01.png)  
+![Sustained Growth in K-Drama and Korean Languages Searches](docs/Part2_01.png)  
 * Part 3 The Smoking Gun - Squid Game Experiments
   * There is an unmistakakable spike in interest in Learning Korean immediately after the release of both Squid Game Season 1 and Season 2
-![Sustained Growth in K-Drama and Korean Languages Searches](doc/Part3_01.png)    
+![Sustained Growth in K-Drama and Korean Languages Searches](docs/Part3_01.png)    
 * Part 4 The Geographic Proof: K-Drama to Learn Korean 
   * Not all K-drama viewers become language learners.Google Trends data suggests that the entertainment-to-education pipeline operates strongest in specific geographic and cultural contexts, with Southeast Asia showing the most efficient conversion of cultural interest into educational motivation.
-![Quadrant Analysis of Countries in their interest in K-Drama and Learning Korean](doc/Part4_01.png)    
+![Quadrant Analysis of Countries in their interest in K-Drama and Learning Korean](docs/Part4_01.png)    
 
 
 # Conclusion & Limitations
