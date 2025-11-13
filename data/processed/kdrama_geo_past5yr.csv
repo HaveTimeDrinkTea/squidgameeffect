@@ -1,251 +1,251 @@
-,country,kdrama_geo_past5yr
-0,Mayotte,0.0
-1,Madagascar,100.0
-2,Bhutan,0.0
-3,Philippines,59.0
-4,Djibouti,0.0
-5,French Polynesia,0.0
-6,Nigeria,35.0
-7,Cuba,34.0
-8,Gabon,0.0
-9,Cambodia,30.0
-10,Haiti,0.0
-11,Nicaragua,24.0
-12,Brunei,0.0
-13,Congo - Brazzaville,0.0
-14,Myanmar (Burma),22.0
-15,Togo,0.0
-16,Benin,0.0
-17,Nepal,18.0
-18,Malawi,0.0
-19,Bangladesh,18.0
-20,Belize,0.0
-21,Guadeloupe,0.0
-22,Guam,0.0
-23,El Salvador,16.0
-24,Réunion,0.0
-25,Guyana,0.0
-26,Mongolia,0.0
-27,Morocco,15.0
-28,Uganda,15.0
-29,Paraguay,15.0
-30,Pakistan,15.0
-31,Venezuela,14.0
-32,Bolivia,14.0
-33,Tunisia,14.0
-34,Azerbaijan,14.0
-35,Peru,14.0
-36,Guatemala,14.0
-37,Türkiye,13.0
-38,Panama,13.0
-39,Honduras,13.0
-40,Rwanda,0.0
-41,Botswana,0.0
-42,Ethiopia,0.0
-43,Mexico,12.0
-44,Fiji,0.0
-45,Martinique,0.0
-46,Papua New Guinea,0.0
-47,Mauritius,0.0
-48,Côte d’Ivoire,0.0
-49,Malaysia,12.0
-50,Ecuador,11.0
-51,Maldives,0.0
-52,Trinidad & Tobago,0.0
-53,Georgia,11.0
-54,Senegal,0.0
-55,India,10.0
-56,Costa Rica,10.0
-57,Somalia,0.0
-58,Singapore,10.0
-59,St Helena,0.0
-60,Jamaica,0.0
-61,Cameroon,0.0
-62,Zambia,0.0
-63,Barbados,0.0
-64,Indonesia,9.0
-65,Iraq,9.0
-66,Colombia,9.0
-67,Dominican Republic,8.0
-68,Algeria,8.0
-69,Ghana,8.0
-70,Bahrain,0.0
-71,United Arab Emirates,8.0
-72,Namibia,0.0
-73,Chile,7.0
-74,Zimbabwe,0.0
-75,Sri Lanka,7.0
-76,Czechia,7.0
-77,Afghanistan,0.0
-78,Mali,0.0
-79,Tanzania,0.0
-80,Oman,0.0
-81,Kenya,6.0
-82,Uzbekistan,6.0
-83,France,6.0
-84,Albania,0.0
-85,Turkmenistan,0.0
-86,Angola,0.0
-87,Congo - Kinshasa,0.0
-88,Romania,5.0
-89,Qatar,0.0
-90,South Africa,5.0
-91,Burkina Faso,0.0
-92,Kuwait,0.0
-93,Greece,5.0
-94,Puerto Rico,0.0
-95,Sweden,5.0
-96,Belgium,5.0
-97,Luxembourg,0.0
-98,Norway,5.0
-99,Moldova,0.0
-100,Argentina,5.0
-101,Slovakia,5.0
-102,Italy,5.0
-103,Uruguay,0.0
-104,Portugal,5.0
-105,Laos,0.0
-106,Canada,5.0
-107,United States,5.0
-108,Denmark,5.0
-109,North Macedonia,0.0
-110,New Zealand,4.0
-111,Poland,4.0
-112,Vietnam,4.0
-113,Switzerland,4.0
-114,South Korea,4.0
-115,Cyprus,0.0
-116,Bulgaria,4.0
-117,Saudi Arabia,4.0
-118,Libya,0.0
-119,Hungary,4.0
-120,Germany,4.0
-121,Jordan,0.0
-122,Finland,4.0
-123,Yemen,0.0
-124,Lebanon,0.0
-125,Armenia,0.0
-126,Hong Kong,3.0
-127,Brazil,3.0
-128,Lithuania,0.0
-129,Australia,3.0
-130,Bosnia & Herzegovina,0.0
-131,Austria,3.0
-132,Egypt,3.0
-133,China,0.0
-134,Serbia,0.0
-135,Latvia,0.0
-136,Netherlands,2.0
-137,Mozambique,0.0
-138,United Kingdom,2.0
-139,Spain,2.0
-140,Slovenia,0.0
-141,Estonia,0.0
-142,Croatia,0.0
-143,Thailand,1.0
-144,Ireland,0.0
-145,Israel,0.0
-146,Syria,0.0
-147,Kyrgyzstan,0.0
-148,Taiwan,0.5
-149,Iran,0.5
-150,Kazakhstan,0.0
-151,Ukraine,0.0
-152,Russia,0.5
-153,Japan,0.5
-154,Greenland,0.0
-155,Aruba,0.0
-156,Christmas Island,0.0
-157,Curaçao,0.0
-158,Cape Verde,0.0
-159,Comoros,0.0
-160,New Caledonia,0.0
-161,Niger,0.0
-162,Norfolk Island,0.0
-163,Cook Islands,0.0
-164,Montserrat,0.0
-165,Niue,0.0
-166,Mauritania,0.0
-167,Northern Mariana Islands,0.0
-168,Montenegro,0.0
-169,Grenada,0.0
-170,Dominica,0.0
-171,Cocos (Keeling) Islands,0.0
-172,Malta,0.0
-173,Central African Republic,0.0
-174,Pitcairn Islands,0.0
-175,Bouvet Island,0.0
-176,Marshall Islands,0.0
-177,Palau,0.0
-178,Bermuda,0.0
-179,Eritrea,0.0
-180,Western Sahara,0.0
-181,North Korea,0.0
-182,Monaco,0.0
-183,Belarus,0.0
-184,Palestine,0.0
-185,St Barthélemy,0.0
-186,St Martin,0.0
-187,Bahamas,0.0
-188,Macao,0.0
-189,Lesotho,0.0
-190,Liechtenstein,0.0
-191,St Lucia,0.0
-192,Sudan,0.0
-193,Caribbean Netherlands,0.0
-194,Falkland Islands (Islas Malvinas),0.0
-195,South Georgia & South Sandwich Islands,0.0
-196,Burundi,0.0
-197,Svalbard & Jan Mayen,0.0
-198,Solomon Islands,0.0
-199,Sierra Leone,0.0
-200,St Kitts & Nevis,0.0
-201,San Marino,0.0
-202,Kiribati,0.0
-203,St Pierre & Miquelon,0.0
-204,Faroe Islands,0.0
-205,South Sudan,0.0
-206,São Tomé & Príncipe,0.0
-207,Suriname,0.0
-208,Micronesia,0.0
-209,Jersey,0.0
-210,Iceland,0.0
-211,Eswatini,0.0
-212,Sint Maarten,0.0
-213,Seychelles,0.0
-214,Guernsey,0.0
-215,Turks & Caicos Islands,0.0
-216,Chad,0.0
-217,Antigua & Barbuda,0.0
-218,British Indian Ocean Territory,0.0
-219,Tajikistan,0.0
-220,Tokelau,0.0
-221,French Southern Territories,0.0
-222,Timor-Leste,0.0
-223,Tonga,0.0
-224,Antarctica,0.0
-225,American Samoa,0.0
-226,Gibraltar,0.0
-227,Tuvalu,0.0
-228,Isle of Man,0.0
-229,Guinea,0.0
-230,Andorra,0.0
-231,Gambia,0.0
-232,US Outlying Islands,0.0
-233,Guinea-Bissau,0.0
-234,Heard & McDonald Islands,0.0
-235,Åland Islands,0.0
-236,Vatican City,0.0
-237,St Vincent & the Grenadines,0.0
-238,Anguilla,0.0
-239,British Virgin Islands,0.0
-240,US Virgin Islands,0.0
-241,Equatorial Guinea,0.0
-242,Vanuatu,0.0
-243,Wallis & Futuna,0.0
-244,Samoa,0.0
-245,Kosovo,0.0
-246,French Guiana,0.0
-247,Liberia,0.0
-248,Nauru,0.0
-249,Cayman Islands,0.0
+country,kdrama_geo_past5yr
+Mayotte,0.0
+Madagascar,100.0
+Bhutan,0.0
+Philippines,59.0
+Djibouti,0.0
+French Polynesia,0.0
+Nigeria,35.0
+Cuba,34.0
+Gabon,0.0
+Cambodia,30.0
+Haiti,0.0
+Nicaragua,24.0
+Brunei,0.0
+Congo - Brazzaville,0.0
+Myanmar (Burma),22.0
+Togo,0.0
+Benin,0.0
+Nepal,18.0
+Malawi,0.0
+Bangladesh,18.0
+Belize,0.0
+Guadeloupe,0.0
+Guam,0.0
+El Salvador,16.0
+Réunion,0.0
+Guyana,0.0
+Mongolia,0.0
+Morocco,15.0
+Uganda,15.0
+Paraguay,15.0
+Pakistan,15.0
+Venezuela,14.0
+Bolivia,14.0
+Tunisia,14.0
+Azerbaijan,14.0
+Peru,14.0
+Guatemala,14.0
+Türkiye,13.0
+Panama,13.0
+Honduras,13.0
+Rwanda,0.0
+Botswana,0.0
+Ethiopia,0.0
+Mexico,12.0
+Fiji,0.0
+Martinique,0.0
+Papua New Guinea,0.0
+Mauritius,0.0
+Côte d’Ivoire,0.0
+Malaysia,12.0
+Ecuador,11.0
+Maldives,0.0
+Trinidad & Tobago,0.0
+Georgia,11.0
+Senegal,0.0
+India,10.0
+Costa Rica,10.0
+Somalia,0.0
+Singapore,10.0
+St Helena,0.0
+Jamaica,0.0
+Cameroon,0.0
+Zambia,0.0
+Barbados,0.0
+Indonesia,9.0
+Iraq,9.0
+Colombia,9.0
+Dominican Republic,8.0
+Algeria,8.0
+Ghana,8.0
+Bahrain,0.0
+United Arab Emirates,8.0
+Namibia,0.0
+Chile,7.0
+Zimbabwe,0.0
+Sri Lanka,7.0
+Czechia,7.0
+Afghanistan,0.0
+Mali,0.0
+Tanzania,0.0
+Oman,0.0
+Kenya,6.0
+Uzbekistan,6.0
+France,6.0
+Albania,0.0
+Turkmenistan,0.0
+Angola,0.0
+Congo - Kinshasa,0.0
+Romania,5.0
+Qatar,0.0
+South Africa,5.0
+Burkina Faso,0.0
+Kuwait,0.0
+Greece,5.0
+Puerto Rico,0.0
+Sweden,5.0
+Belgium,5.0
+Luxembourg,0.0
+Norway,5.0
+Moldova,0.0
+Argentina,5.0
+Slovakia,5.0
+Italy,5.0
+Uruguay,0.0
+Portugal,5.0
+Laos,0.0
+Canada,5.0
+United States,5.0
+Denmark,5.0
+North Macedonia,0.0
+New Zealand,4.0
+Poland,4.0
+Vietnam,4.0
+Switzerland,4.0
+South Korea,4.0
+Cyprus,0.0
+Bulgaria,4.0
+Saudi Arabia,4.0
+Libya,0.0
+Hungary,4.0
+Germany,4.0
+Jordan,0.0
+Finland,4.0
+Yemen,0.0
+Lebanon,0.0
+Armenia,0.0
+Hong Kong,3.0
+Brazil,3.0
+Lithuania,0.0
+Australia,3.0
+Bosnia & Herzegovina,0.0
+Austria,3.0
+Egypt,3.0
+China,0.0
+Serbia,0.0
+Latvia,0.0
+Netherlands,2.0
+Mozambique,0.0
+United Kingdom,2.0
+Spain,2.0
+Slovenia,0.0
+Estonia,0.0
+Croatia,0.0
+Thailand,1.0
+Ireland,0.0
+Israel,0.0
+Syria,0.0
+Kyrgyzstan,0.0
+Taiwan,0.5
+Iran,0.5
+Kazakhstan,0.0
+Ukraine,0.0
+Russia,0.5
+Japan,0.5
+Greenland,0.0
+Aruba,0.0
+Christmas Island,0.0
+Curaçao,0.0
+Cape Verde,0.0
+Comoros,0.0
+New Caledonia,0.0
+Niger,0.0
+Norfolk Island,0.0
+Cook Islands,0.0
+Montserrat,0.0
+Niue,0.0
+Mauritania,0.0
+Northern Mariana Islands,0.0
+Montenegro,0.0
+Grenada,0.0
+Dominica,0.0
+Cocos (Keeling) Islands,0.0
+Malta,0.0
+Central African Republic,0.0
+Pitcairn Islands,0.0
+Bouvet Island,0.0
+Marshall Islands,0.0
+Palau,0.0
+Bermuda,0.0
+Eritrea,0.0
+Western Sahara,0.0
+North Korea,0.0
+Monaco,0.0
+Belarus,0.0
+Palestine,0.0
+St Barthélemy,0.0
+St Martin,0.0
+Bahamas,0.0
+Macao,0.0
+Lesotho,0.0
+Liechtenstein,0.0
+St Lucia,0.0
+Sudan,0.0
+Caribbean Netherlands,0.0
+Falkland Islands (Islas Malvinas),0.0
+South Georgia & South Sandwich Islands,0.0
+Burundi,0.0
+Svalbard & Jan Mayen,0.0
+Solomon Islands,0.0
+Sierra Leone,0.0
+St Kitts & Nevis,0.0
+San Marino,0.0
+Kiribati,0.0
+St Pierre & Miquelon,0.0
+Faroe Islands,0.0
+South Sudan,0.0
+São Tomé & Príncipe,0.0
+Suriname,0.0
+Micronesia,0.0
+Jersey,0.0
+Iceland,0.0
+Eswatini,0.0
+Sint Maarten,0.0
+Seychelles,0.0
+Guernsey,0.0
+Turks & Caicos Islands,0.0
+Chad,0.0
+Antigua & Barbuda,0.0
+British Indian Ocean Territory,0.0
+Tajikistan,0.0
+Tokelau,0.0
+French Southern Territories,0.0
+Timor-Leste,0.0
+Tonga,0.0
+Antarctica,0.0
+American Samoa,0.0
+Gibraltar,0.0
+Tuvalu,0.0
+Isle of Man,0.0
+Guinea,0.0
+Andorra,0.0
+Gambia,0.0
+US Outlying Islands,0.0
+Guinea-Bissau,0.0
+Heard & McDonald Islands,0.0
+Åland Islands,0.0
+Vatican City,0.0
+St Vincent & the Grenadines,0.0
+Anguilla,0.0
+British Virgin Islands,0.0
+US Virgin Islands,0.0
+Equatorial Guinea,0.0
+Vanuatu,0.0
+Wallis & Futuna,0.0
+Samoa,0.0
+Kosovo,0.0
+French Guiana,0.0
+Liberia,0.0
+Nauru,0.0
+Cayman Islands,0.0
