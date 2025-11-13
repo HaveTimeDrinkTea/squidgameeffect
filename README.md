@@ -94,4 +94,5 @@ It is also important to note that the analysis of Google Trend on the interest i
 > pip install -r requirements.txt
 * Open the Jupyter notebooks: 
 > jupyter notebook notebooks/squidgameeffect.ipynb
+
 > jupyter notebook notebooks/squidgameeffect_analysis.ipynb
