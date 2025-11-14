@@ -111,7 +111,7 @@ It is also important to note that the analysis of Google Trend on the interest i
 * Analysis in the trends of interest in "K-Drama" and "Learn Korean" together with significant news or releases of "K-Pop" and/or "Korean Skin Care" products.
 
 
-# How to Reproduct This Project
+# How to Reproduce This Project
 * (Recommended) Create a virtual environment.
 * Clone the repository
 > git clone https://github.com/HaveTimeDrinkTea/squidgameeffect.git
