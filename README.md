@@ -19,7 +19,7 @@ This project aims to start on a data trail to see if this is just a corporate in
 # Questions & Hypothesis
 
 ## Hypothesis
-* ***The Korean Wave of Entertainment leads the world on a Korean language learning journey.***
+* ***The Korean wave of entertainment leads the world on a Korean language learning journey.***
 
 ## Questions
 * Part 1 The Mystery - Unexpected Global Interest?
