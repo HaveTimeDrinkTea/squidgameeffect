@@ -10,6 +10,11 @@ Their hypothesis? The K-pop and K-drama effect.  Duolingo began weaving famous K
 
 This project aims to start on a data trail to see if this is just a corporate intuition based on fads or that binge-watching K-drama is indeed becoming the world's newest Korean classrooms.
 
+## Project Links
+* [Github repo](https://github.com/HaveTimeDrinkTea/squidgameeffect)
+* [Google slides](https://docs.google.com/presentation/d/1CNAiHM8ZAb_1uJD6XX0eqXvABkgqofNr/edit?usp=sharing&ouid=115645776576726252431&rtpof=true&sd=true)
+* [Kanban Board on Trello](https://bit.ly/3LGtKm4)
+
 
 # Questions & Hypotheses 
 
