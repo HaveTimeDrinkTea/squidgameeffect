@@ -61,7 +61,9 @@ _‼️Note: Google Trends data represents ***normalized search interest***, whe
 
 # Results & Findings  
 * Part 1 The Mystery - Unexpected Global Interest?
-  * Yes there appears to be a global interest in Korean entertainment.
+  * There appears to be a global interest in Korean entertainment
+![Global Search Interest for "K-Drama" or "Korean Drama"](docs/Part1_01.png)
+  * and also in learning the Korean language
 ![Global Search Interest for "Learn Korean](docs/Part1_02.png)
 * Part 2 The Correlation Evidence
   * There appears to be sustained growth in K-Drama and Korean Languages searches
