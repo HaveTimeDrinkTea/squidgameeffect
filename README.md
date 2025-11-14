@@ -97,7 +97,7 @@ However, purely looking at K-Drama may not be enough to fully justify the impetu
 It is also important to note that the analysis of Google Trend on the interest in search topics and search terms is at best only a proxy to gauge the temperature of search interests around the world.  Many factors, such as national or international event, can affect the Relative Search Frequency especially when in comes to comparing country of varying population size and internet usage.
 
 
-# Futher Works
+# Further Works
 * With better data from Duolingo, perhaps we can dig more into why Doulingo wants to add popular phrases from popular Korean shows into its language learning app.
 * Analysis of Netflix global viewing figures to see if indeed there is a sustained increase in interest in Korean entaintment.
 * Analysis in the trends of interest in "K-Drama" and "Learn Korean" together with significant news or releases of "K-Pop" and/or "Korean Skin Care" products.
