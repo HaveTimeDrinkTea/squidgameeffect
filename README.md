@@ -12,7 +12,7 @@ This project aims to start on a data trail to see if this is just a corporate in
 
 ## Project Links
 * [Github repo](https://github.com/HaveTimeDrinkTea/squidgameeffect)
-* [Google slides](https://docs.google.com/presentation/d/1CNAiHM8ZAb_1uJD6XX0eqXvABkgqofNr/edit?usp=sharing&ouid=115645776576726252431&rtpof=true&sd=true)
+* [Google slides](https://docs.google.com/presentation/d/1CNAiHM8ZAb_1uJD6XX0eqXvABkgqofNr/present?usp=sharing&ouid=115645776576726252431&rtpof=true&sd=true)
 * [Kanban Board on Trello](https://bit.ly/3LGtKm4)
 
 
