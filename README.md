@@ -80,8 +80,11 @@ _‼️Note: Google Trends data represents ***normalized search interest***, whe
   * Yes there appears to be a global interest in Korean entertainment.
 ![Global Search Interest for "Learn Korean](docs/Part1_02.png)
 * Part 2 The Correlation Evidence
-  * There appears to be sustained growth in K-Drama and Korean Languages Searches
+  * There appears to be sustained growth in K-Drama and Korean Languages searches
+  * The consistent clustering shows sustained, high-level interest in both K-dramas and learning Korean over the 5-year period. While week-to-week movements don't correlate strongly, the sustained parallel presence suggests an underlying cultural connection that manifests around major events rather than minor weekly fluctuations.
 ![Sustained Growth in K-Drama and Korean Languages Searches](docs/Part2_01.png)  
+  * The consistent clustering shows sustained, high-level interest in both K-dramas and learning Korean over the 5-year period. While week-to-week movements don't correlate strongly, the sustained parallel presence suggests an underlying cultural connection that manifests around major events rather than minor weekly fluctuations (i.e. The Squid Game Effects)
+![Clustering of K-Drama and Learn Korean search interests](docs/Part2_01.png)  
 * Part 3 The Smoking Gun - Squid Game Experiments
   * There is an unmistakakable spike in interest in Learning Korean immediately after the release of both Squid Game Season 1 and Season 2
 ![Sustained Growth in K-Drama and Korean Languages Searches](docs/Part3_01.png)    
