@@ -1,7 +1,7 @@
 # 🦑 The Squid Game Effect: A Data Analysis on Global Interest in Learning Korean
-This repository contains a data analysis project looking at the effects of entertainment exports from Korean on the global interest in learning the Korean language. The project aims to look specifically on the impact of Squid Game 1 &amp; 2 on the global interest in learning korean language.
+This repository contains a data analysis project looking into the effects of entertainment exports from Korean on the global interest in learning the Korean language. The project aims to also look specifically at the impact of Squid Game season 1 and Squid Game Season 2 on the global interest in learning korean language.
 
-The project uses Google Trends data, Duolingo language report (2024) and MyDramaList from Kaggle.
+The project uses data Google Trends data, Duolingo language report (2024) and MyDramaList from Kaggle.
 
 # Project Description
 For decades, language learning was predictable: English, Spanish and French were the languages of choice. However, in 2018, Duolingo's data detectives spotted an anomaly. They noticed that interests in Korean culture and language are surging in countries with no historical ties to Korea.
@@ -27,27 +27,37 @@ This project aims to start on a data trail to see if this is just a corporate in
 * Part 4 The Geographic Proof: K-Drama to Learn Korean 
   * Are there many countries who really convert entertainment to education or are they casual consumers of entertainment without educational follow-through.
 
+
+# Business Impact & Applications for Langauge Learning / Streaming Platforms
+* Potential (new) market opportnities e.g. Japanese Anime and learning Japanese
+* Capitaliszatino of Cutural Trend e.g. retail of curated Korean products, tourism
+* Proactive resource allocation to anticipated demands spikes
+
+
 # Data Sources
 * [Duolingo 2024 Report](https://blog.duolingo.com/2024-duolingo-language-report/)
   * Data Source: [Google Docs](https://docs.google.com/spreadsheets/d/1CndYC5ZovYfmPuMN9T9Jxfa4CQXOzZrfQ2kAUaWG1ZU/edit?ref=blog.duolingo.com&gid=532174835#gid=532174835)
-* Google Trends Timelines and Geographical (data Collection date 01 Nov 2025)
+* Relative search frequencey data from Google Trends Timelines and Geographical (data Collection date 01 Nov 2025)
   * Past 5 years
     * search topic "Learn Korean"
     * search term "k-drama"
     * search topic "Korean Drama"
-* 1 year period covering 9 months before the release of each show and 3 months after on the following: 
+  * 1 year period covering 9 months before the release of each show and 3 months after on the following: 
     * search topic "Learn Korean"
     * search term "k-drama"    
     * Squid Game 1 (released on Netflix on 17 September 2021)
     * Squid Game 2 (released on Netflix on 26 December 2024) 
 * My Drama List: K-Drama
   * source: [REDHATA on Kaggle](https://www.kaggle.com/datasets/redhata/korean-drama-dataset-2010-2025-2600-titles)
-* Netflix Movies & TC shows Dataset
+* Netflix Movies & TC shows Dataset _(This data set is reserved for further works)_
   *source: [HQ DATA PROFILER on Kaggle](https://www.kaggle.com/datasets/hqdataprofiler/cleaned-netflix-movies-and-tv-shows)
+
+_‼️Note: Google Trends data represents ***normalized search interest***, where values of 100 indicate peak popularity for a term ***relative*** to other time periods and regions._
+
 
 # Jupyter Notebooks
 * For ETL and EDA [squidgameeffect.ipynb](notebooks/squidgameeffect.ipynb)
-* For Analysis on the 4 Part questions listed above [squidgameeffect_analysis.ipynb](notebooks/squidgameeffect_analysis.ipynb)
+* For Analysis on the 4-Part questions listed above [squidgameeffect_analysis.ipynb](notebooks/squidgameeffect_analysis.ipynb)
 
   
 # Tech Stack & Libraries
