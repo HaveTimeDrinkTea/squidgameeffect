@@ -55,7 +55,7 @@ This project aims to start on a data trail to see if this is just a corporate in
 * My Drama List: K-Drama
   * source: [REDHATA on Kaggle](https://www.kaggle.com/datasets/redhata/korean-drama-dataset-2010-2025-2600-titles)
 * Netflix Movies & TC shows Dataset _(This data set is reserved for further works)_
-  *source: [HQ DATA PROFILER on Kaggle](https://www.kaggle.com/datasets/hqdataprofiler/cleaned-netflix-movies-and-tv-shows)
+  * source: [HQ DATA PROFILER on Kaggle](https://www.kaggle.com/datasets/hqdataprofiler/cleaned-netflix-movies-and-tv-shows)
 
 _‼️Note: Google Trends data represents ***normalized search interest***, where values of 100 indicate peak popularity for a term ***relative*** to other time periods and regions._
 
