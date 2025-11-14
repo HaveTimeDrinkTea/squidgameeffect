@@ -30,7 +30,7 @@ This project aims to start on a data trail to see if this is just a corporate in
 
 # Business Impact & Applications for Langauge Learning / Streaming Platforms
 * Potential (new) market opportnities e.g. Japanese Anime and learning Japanese
-* Capitaliszatino of Cutural Trend e.g. retail of curated Korean products, tourism
+* Capitalisation of Cutural Trend e.g. retail of curated Korean products, tourism
 * Proactive resource allocation to anticipated demands spikes
 
 
