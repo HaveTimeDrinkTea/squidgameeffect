@@ -125,7 +125,13 @@ MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg
 # Credits and Acknowledgements
 * My tutor Mr. John Anih
 * eLearning materials of the "Data Analytics with AI" Bootcamp by the Code Institute
-* Learnings from Stack Overflow, Mimo.org, DeepSeek and Python official Websites
+* Learnings from Stack Overflow, Mimo.org (Python e-learning) and Python official Websites
+* Deepseek for
+  * Project brainstorming
+  * Setting up python virtual environment and Github repo
+  * being my Python tutor and for resolving code errors
+  * Assist in using Plotly Express (especially for trying to put tiny Singapore on their map!)
+ 
 
 ## Contribution
 * If you have any query or contribution about this repo, please contact via
