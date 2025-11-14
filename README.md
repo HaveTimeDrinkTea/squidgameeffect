@@ -59,22 +59,6 @@ This project aims to start on a data trail to see if this is just a corporate in
 
 _‼️Note: Google Trends data represents ***normalized search interest***, where values of 100 indicate peak popularity for a term ***relative*** to other time periods and regions._
 
-
-# Jupyter Notebooks
-* For ETL and EDA [squidgameeffect.ipynb](notebooks/squidgameeffect.ipynb)
-* For Analysis on the 4-Part questions listed above [squidgameeffect_analysis.ipynb](notebooks/squidgameeffect_analysis.ipynb)
-
-  
-# Tech Stack & Libraries
-* ![Python](https://img.shields.io/badge/python-3.13%2B-blue)
-* Libraries:
-  * [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-  * [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-  * ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff) ![seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
-  * plotly.express 
-* Git workflow 
-
-
 # Results & Findings  
 * Part 1 The Mystery - Unexpected Global Interest?
   * Yes there appears to be a global interest in Korean entertainment.
@@ -111,6 +95,21 @@ It is also important to note that the analysis of Google Trend on the interest i
 * Analysis in the trends of interest in "K-Drama" and "Learn Korean" together with significant news or releases of "K-Pop" and/or "Korean Skin Care" products.
 
 
+# Jupyter Notebooks
+* For ETL and EDA [squidgameeffect.ipynb](notebooks/squidgameeffect.ipynb)
+* For Analysis on the 4-Part questions listed above [squidgameeffect_analysis.ipynb](notebooks/squidgameeffect_analysis.ipynb)
+
+  
+# Tech Stack & Libraries
+* ![Python](https://img.shields.io/badge/python-3.13%2B-blue)
+* Libraries:
+  * [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+  * [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+  * ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff) ![seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
+  * plotly.express 
+* Git workflow 
+
+
 # How to Reproduce This Project
 * (Recommended) Create a virtual environment.
 * Clone the repository
@@ -136,7 +135,7 @@ MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg
   * Assist in using Plotly Express (especially for trying to put tiny Singapore on their map!)
  
 
-## Contribution
+## Contributions
 * If you have any query or contribution about this repo, please contact via
   * GitHub [https://github.com/HaveTimeDrinkTea](https://github.com/HaveTimeDrinkTea)
 
