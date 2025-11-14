@@ -33,7 +33,7 @@ This project aims to start on a data trail to see if this is just a corporate in
   * Are there many countries who really convert entertainment to education or are they casual consumers of entertainment without educational follow-through.
 
 
-# Business Impact & Applications for Langauge Learning / Streaming Platforms
+# Business Impact & Applications for Language Learning / Streaming Platforms
 * Potential (new) market opportunities e.g. Japanese Anime and learning Japanese, Telenovas and learning Spanish
 * Capitalisation of Cultural Trend e.g. retail of curated Korean products, tourism
 * Proactive resource allocation to anticipated demands spikes
