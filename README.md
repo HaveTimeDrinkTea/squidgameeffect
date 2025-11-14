@@ -42,7 +42,7 @@ This project aims to start on a data trail to see if this is just a corporate in
 # Data Sources
 * [Duolingo 2024 Report](https://blog.duolingo.com/2024-duolingo-language-report/)
   * Data Source: [Google Docs](https://docs.google.com/spreadsheets/d/1CndYC5ZovYfmPuMN9T9Jxfa4CQXOzZrfQ2kAUaWG1ZU/edit?ref=blog.duolingo.com&gid=532174835#gid=532174835)
-* Relative search frequencey data from Google Trends Timelines and Geographical (data Collection date 01 Nov 2025)
+* Relative search frequencey data from Google Trends Timelines and Geographical (Data Collection: 01 Nov 2025)
   * Past 5 years
     * search topic "Learn Korean"
     * search term "k-drama"
