@@ -16,9 +16,9 @@ This project aims to start on a data trail to see if this is just a corporate in
 * [Kanban Board on Trello](https://bit.ly/3LGtKm4)
 
 
-# Questions & Hypotheses 
+# Questions & Hypothesis
 
-## Hypotheses
+## Hypothesis
 * The Korean Wave of Entertainment leads the world on a Korean language learning journey.
 
 ## Questions
