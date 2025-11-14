@@ -94,7 +94,7 @@ There are also clear indication of countries who are historically and culturally
 
 However, purely looking at K-Drama may not be enough to fully justify the impetus behind the interest in learning Korean language nor can it fully explain if there is or will be a sustained level of interest. Other factors such as K-Pop, Korean cuisine, Korean skin care fads must be taken into account. 
 
-It is also important to note that the analysis of Google Trend on the interest in search topics and search terms is at best only a proxy to gauge the temperature of search interests around the world.  Many factors, such as national or international event, can affect the Relative Search Frequency especially when in comes to comparing country of varying population size and internet usage.
+It is also important to note that the analysis of Google Trend on the interest in search topics and search terms is ***at best only a proxy*** to gauge the temperature of search interests around the world.  Many factors, such as national or international event, can affect the Relative Search Frequency especially when in comes to comparing country of varying population size and internet usage.
 
 
 # Further Works
