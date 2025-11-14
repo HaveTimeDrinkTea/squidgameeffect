@@ -6,7 +6,7 @@ The project uses data Google Trends data, Duolingo language report (2024) and My
 # Project Description
 For decades, language learning was predictable: English, Spanish and French were the languages of choice. However, in 2018, Duolingo's data detectives spotted an anomaly. They noticed that interests in Korean culture and language are surging in countries with no historical ties to Korea.
 
-Their hypothesis? The K-pop and K-drama effect.  Duolingo began weaving famous K-drama lines into lessons. Their latest campaign of "Learn Korean or Else" was a partnership with Netflix in late 2024 with the release of "Squid Game Season 2". [source: Duolingo Owl joins Squid Game, 10 Dec 2024](https://investors.duolingo.com/news-releases/news-release-details/duolingo-and-netflix-partner-launch-learn-korean-or-else)
+***Their hypothesis?*** The K-pop and K-drama effect.  Duolingo began weaving famous K-drama lines into lessons. Their latest campaign of "Learn Korean or Else" was a partnership with Netflix in late 2024 with the release of "Squid Game Season 2". [source: Duolingo Owl joins Squid Game, 10 Dec 2024](https://investors.duolingo.com/news-releases/news-release-details/duolingo-and-netflix-partner-launch-learn-korean-or-else)
 
 This project aims to start on a data trail to see if this is just a corporate intuition based on fads or that binge-watching K-drama is indeed becoming the world's newest Korean classrooms.
 
