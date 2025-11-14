@@ -134,7 +134,7 @@ MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg
   * Assist in using Plotly Express (especially for trying to put tiny Singapore on their map!)
  
 
-## Contributions
+# Contributions
 * If you have any query or contribution about this repo, please contact via
   * GitHub [https://github.com/HaveTimeDrinkTea](https://github.com/HaveTimeDrinkTea)
 
