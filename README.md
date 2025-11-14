@@ -122,7 +122,7 @@ It is also important to note that the analysis of Google Trend on the interest i
 # License
 MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Credits and Acknowledgement
+# Credits and Acknowledgements
 * My tutor Mr. John Anih
 * eLearning materials of the "Data Analytics with AI" Bootcamp by the Code Institute
 * Learnings from Stack Overflow, Mimo.org, DeepSeek and Python official Websites
