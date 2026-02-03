@@ -1,5 +1,5 @@
 # 🦑 The Squid Game Effect: A Data Analysis on Global Interests in Learning Korean and K-Dramas
-This repository contains a data analysis project looking into the effects of entertainment exports from Korean on the global interest in learning the Korean language. The project aims to also look specifically at the impact of Squid Game season 1 and Squid Game Season 2 on the global interest in learning korean language.
+This repository contains a data analysis project looking into the effects of entertainment exports from Korea on the global interest in learning the Korean language. The project aims to also look specifically at the impact of Squid Game season 1 and Squid Game Season 2 on the global interest in learning Korean language.
 
 The project uses data Google Trends data, Duolingo language report (2024) and MyDramaList from Kaggle.
 
